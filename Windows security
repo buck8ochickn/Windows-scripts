@@ -1,0 +1,21 @@
+############################################################################
+###/    *******************************************************************
+#/    *
+#   *          Windows security for windows 10 and windows server 2016
+#   *
+#   *
+
+Encrypt the disk
+2 options
+veracrypt 
+bitlocker
+
+
+Prevent the dumping memory on to the disk
+Disable sleep 
+
+
+
+
+Do not set up the computer with a microsoft account
+
